@@ -1,0 +1,150 @@
+
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+
+.body{
+    
+    
+    
+}
+.main-container{
+    display:flex;
+   
+    
+    
+}
+
+
+
+.rightbox{
+    width: 90%;
+    
+   
+    background-color: rgb(238, 239, 222);
+    padding: 15px 15px;
+    text-transform: uppercase;
+    color: rgb(23, 18, 18);
+    font-family: sans-serif;
+    text-align:justify;
+    padding-left: 100px;
+    
+    
+}
+
+
+
+.name-con >h2{
+    font-size: 30px;
+    
+}
+
+.name-con >h5{
+    color: rgb(82, 146, 209);
+    font-size: 15px;
+    padding-bottom: 100px;
+    
+}
+.contact_lifeside{
+    width: 27%;
+    height: 100vh;
+    
+    background-color: rgb(#fff);
+    padding: 20px;
+    text-align: left;
+    padding-right: 100px;
+
+    font-family: sans-serif;
+}
+
+
+.contact_life >h2{
+    text-transform: uppercase;
+    padding-bottom: 15px;
+    
+    
+}
+
+
+.contact_life >p{
+    padding-bottom: 5px;
+    padding-bottom: 12px;
+}
+
+.education-right{
+    padding-bottom: 15px;
+    
+}
+
+
+.educatin-left >p{
+    
+    padding-bottom: 15px;
+
+    
+    
+    
+}
+.education-right >h2{
+    text-transform: uppercase;
+    padding-bottom: 10px;
+   
+    
+    
+}
+.education-right >p{
+    text-transform: capitalize;
+    padding-bottom: 25px;
+    
+}
+
+.educatin-left >h2{
+    padding-bottom: 20px;
+}
+.educatin-left >p{
+    padding-bottom: 20px;
+}
+.skils-rightside{
+    
+    padding-bottom: 10px;
+    text-align: left;
+}
+
+.skiles-right >h2{
+    
+    text-transform: uppercase;
+    text-align: left;
+    padding-bottom: 10px;
+    padding-right: 30px;
+}
+
+.skiles-right >h3{
+    padding-right: 400px;
+    
+    
+}
+.project-left >h2{
+    
+    padding-bottom: 20px;
+}
+.project-left > p{
+    text-transform: capitalize;
+    padding-bottom: 20px;
+}
+
+.languges-right >h2{
+    padding-bottom: 15px;
+}
+.languges-right >p{
+    padding-right: 40px;
+}
+.certication-left >h2{
+    padding-bottom: 20px;
+}
+
+.certication-left >p{
+    text-transform: capitalize;
+}
+
